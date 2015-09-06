@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #06F;
+	text-align: center;
+}
+.btn {
+	color: #fff;
+	background: #000;
+	padding: 10px 40px;
+	text-decoration: none; 
+	transition: background .5s; 
+	align: center
+}
+.btn:hover, .nav ul li:hover {
+	background: #117bff;
+	cursor: pointer; 
+	transition: background .5s;  
+}
